@@ -29,8 +29,6 @@ vector<int> topKFrequent(vector<int>& nums, int k) {
 int main() {
     vector<int> nums = {1,2,2,3,3,3};
     int k = 2;
-
     vector<int> ans = topKFrequent(nums, k);
-
     for (int x : ans) cout << x << " ";
 }
