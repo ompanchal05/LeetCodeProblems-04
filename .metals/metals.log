@@ -784,3 +784,33 @@ INFO: Unsupported notification method: $/setTrace
 2026.09.09 18:14:09 INFO  Memory monitor stopped
 2026.09.09 18:14:09 INFO  shutting down Metals
 2026.09.09 18:14:09 INFO  Exiting server
+2026.09.11 01:31:21 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved' for client Visual Studio Code 1.136.2.
+2026.09.11 01:31:21 INFO  Memory monitor started
+2026.09.11 01:31:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.11 01:31:46 INFO  Running List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, setup-ide, C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved)
+2026.09.11 01:31:46 INFO  Scala CLI: Error: java.nio.file.InvalidPathException: Illegal char <?> at index 38: C:\Users\Om Panchal\OneDrive\Pictures\??????\GitHub\75_DSA_Problems_solved
+2026.09.11 01:31:46 INFO  Scala CLI: For more details, please see 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved\.scala-build\stacktraces\1789070506-9381732221796092755.log'
+2026.09.11 01:31:47 WARN  no build tool detected in workspace 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.11 01:31:46 WARN  Build server is not auto-connectable.
+Sept 11, 2026 1:36:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 1:52:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 1:52:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 2:09:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 2:12:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 7:34:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 7:34:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 7:34:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 11, 2026 7:34:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.11 22:45:12 INFO  Shutting down server
+2026.09.11 22:45:12 INFO  Memory monitor stopped
+2026.09.11 22:45:12 INFO  shutting down Metals
+2026.09.11 22:45:12 INFO  Exiting server
