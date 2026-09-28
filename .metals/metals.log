@@ -871,3 +871,13 @@ INFO: Unsupported notification method: $/setTrace
 2026.09.27 14:57:17 INFO  Memory monitor stopped
 2026.09.27 14:57:17 INFO  shutting down Metals
 2026.09.27 14:57:17 INFO  Exiting server
+2026.09.28 00:03:54 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved' for client Visual Studio Code 1.139.1.
+2026.09.28 00:03:54 INFO  Memory monitor started
+2026.09.28 00:03:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.28 00:04:03 INFO  Running List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, setup-ide, C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved)
+2026.09.28 00:04:03 INFO  Scala CLI: Error: java.nio.file.InvalidPathException: Illegal char <?> at index 38: C:\Users\Om Panchal\OneDrive\Pictures\??????\GitHub\75_DSA_Problems_solved
+2026.09.28 00:04:03 INFO  Scala CLI: For more details, please see 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved\.scala-build\stacktraces\1790534043-3405294272611818561.log'
+2026.09.28 00:04:03 WARN  no build tool detected in workspace 'C:\Users\Om Panchal\OneDrive\Pictures\ドキュメント\GitHub\75_DSA_Problems_solved'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.28 00:04:03 WARN  Build server is not auto-connectable.
+Sept 28, 2026 1:57:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
